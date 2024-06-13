@@ -1,6 +1,6 @@
 Privacy policy for Merge It - 1024, 2048
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app (Merge It - 1024, 2048) to collect any personally identifiable information. All data (the highscore) created by the you (the user) is stored locally in your device only, and can be simply erased by clearing the app's data or uninstalling it. No analytics software is present in the app either.
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app (Merge It - 1024, 2048) to collect any personally identifiable information. All data (the highscore) created by you (the user) is stored locally in your device only, and can be simply erased by clearing the app's data or uninstalling it. No analytics software is present in the app either.
 
 For any further inquiries please contact
 kochtgames@gmail.com
